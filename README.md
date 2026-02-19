@@ -1,2 +1,3 @@
-# smart-cli-tool-xjpw
-A command-line tool for modern development workflows
+# Smart Cli Tool Xjpw
+
+A command-line tool for modern development workflows.
